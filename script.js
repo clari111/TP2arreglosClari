@@ -16,4 +16,19 @@ frutas.pop("manzana")
 console.log (frutas)
 
 /*ejercicio 2*/
+let nombres = ["Clara", "Victoria", "Mia"]
+console.log (nombres.length);
+
+nombres.push ("Bauti");
+console.log (nombres)
+console.log(nombres.length);
+
+/*ejercicio 3*/
+
+let numeros = ["1", "2","3", "4"]
+
+for (let numeros = 0; numeros < numeros.length; numeros++) {
+   console.log = array[numeros];
+    
+}
 
