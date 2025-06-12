@@ -32,3 +32,28 @@ for (let numeros = 0; numeros < numeros.length; numeros++) {
     
 }
 
+/*4*/
+
+let arregloNumeros = ['1', '2', '3', '4','5']
+let suma = 0
+
+for (let i = 0; i < arregloNumeros.length; i++) {
+   suma += arregloNumeros[i];
+   
+}
+console.log ('La suma es'+ suma)
+
+/*5*/
+
+let palabras = [];
+
+let palabraUsuario = prompt ('Escribi 5 palabras')
+palabras.push (palabraUsuario)
+
+console.log (palabras)
+
+
+
+
+
+
